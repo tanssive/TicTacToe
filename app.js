@@ -1,6 +1,5 @@
 let currentMark;
 let gameBoard;
-let winnerStatus = document.getElementById("winner")
 
 function startGame() {
     showClearGameBoardButton();
